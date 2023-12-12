@@ -1,0 +1,8 @@
+{
+    "colorize.languages": [
+        "typescript",
+        "javascript",
+        "vue"
+        // ...
+    ]
+}
