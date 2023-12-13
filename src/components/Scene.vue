@@ -3,6 +3,7 @@ import { ref, onMounted } from 'vue';
 import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import { Robot } from './Robot.ts';
+console.log('hello from csb haha');
 
 const sceneDiv = ref<HTMLCanvasElement>();
 let scene: THREE.Scene,
